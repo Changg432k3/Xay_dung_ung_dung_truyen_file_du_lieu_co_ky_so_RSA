@@ -30,3 +30,6 @@ Trong môi trường mạng hiện đại, việc truyền tải dữ liệu an 
 # 🚀 Yêu cầu
 - Python 3.x
 - Các thư viện Python: Flask, cryptography
+![giao_dien_chinh](https://github.com/user-attachments/assets/dbd2db55-b9de-42c1-beac-12aeb0700ec9)
+![xac_minh](https://github.com/user-attachments/assets/36f9c464-1979-4193-960c-1e0d7ffcfed2)
+
